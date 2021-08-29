@@ -1,0 +1,9 @@
+access_token=05afb0cdc2532ac38c8657569c4401f34622f7642f23d608032d5a3db0bcf1a38120c8714fefc97cece57&expires_in
+usage: vk-deanonymizer.py [-h] --user-id USER_ID
+
+optional arguments:
+  -h, --help            show this help message and exit
+
+required arguments:
+  --user-id USER_ID, -u USER_ID
+                        Target user_id
